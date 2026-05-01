@@ -1,0 +1,13 @@
+{
+  "id": "IonRod",
+  "name": "Ion Rod",
+  "author": "gameeguy11",
+  "description": "Adds a new Ion Rod to Subnautica.",
+  "game": "subnautica",
+  "version": "1.0.0",
+  "source": "github",
+  "github": {
+    "repo": "gameeguy11/IonRod",
+    "branch": "main"
+  }
+}

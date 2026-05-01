@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "changelog": "Initial release of Ion Rod.",
+  "files": [
+    {
+      "path": "SubnauticaPlugin/IonRod",
+      "type": "folder"
+    }
+  ]
+}
